@@ -75,6 +75,6 @@ man <command>
 - Forces fixed terminal width using tput cols
 - Sets a custom pager for better WSL compatibility
 
-## 🧾 License
+## 📜 License
 
 [MIT](LICENSE)
